@@ -1,5 +1,11 @@
-#Key Insights & Findings:
-Overall Sales Performance:
+
+This project is a comprehensive sales analysis dashboard designed to track revenue, profit, and sales distribution across regions and sales representatives. It provides key insights into top-performing regions, best sales personnel, and daily sales trends, enabling businesses to make data-driven decisions and optimize strategies for growth.
+
+
+
+                 
+                 #Key Insights & Findings:
+               Overall Sales Performance:
 
 Total Sales Revenue: $7.06M
 Total Profit: $5M
