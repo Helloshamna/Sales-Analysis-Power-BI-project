@@ -4,8 +4,7 @@ This project is a comprehensive sales analysis dashboard designed to track reven
 
 
                  
-                 #Key Insights & Findings:
-               Overall Sales Performance:
+              
 
 Total Sales Revenue: $7.06M
 Total Profit: $5M
